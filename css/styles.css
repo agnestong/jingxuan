@@ -163,7 +163,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
     position: relative; 
     background-size: cover; 
 	z-index: 1;
-    background-image: url(images/bg.jpg);
+    background-color: #FFA804;
 
 }
 
